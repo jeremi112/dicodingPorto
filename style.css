@@ -687,23 +687,23 @@ height: 100%;
 
 .bg-dark{
     border-style: solid;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.56);
     border-color: white;
 }
 .bg-light{
     border-style: solid;
-    background-color: white;
+    background-color: rgba(235, 239, 249, 0.56);
     border-color: black;
 }
 .bg-sekunder{
     border-style: solid;
     border-color: white;
-    background-color: darkblue;
+    background-color: rgba(0, 72, 255, 0.59);
 }
 .bg-primer{
     border-style: solid;
     border-color: black;
-    background-color: aliceblue;
+    background-color: rgba(207, 221, 255, 0.56);
 }
 .btn-download-resume{
     background-color: white;
@@ -715,15 +715,3 @@ height: 100%;
 .border-color-dark{
     border-color: white;
 }
-/* h1{
-    color:white ;
-}
-p{
-    color: white;
-}
-i{
-    color: white;
-}
-svg{
-    color: white;
-} */
