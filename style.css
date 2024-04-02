@@ -673,13 +673,13 @@ height: 100%;
 
 /* theme */
 .bg-img-dark{
-    background-image: url('bg-dark.jpg');
+    background-image: url('new-bg-dark.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   background-attachment: fixed;
 }
 .bg-img-light{
-    background-image: url('bg-light.jpg');
+    background-image: url('new-bg-light.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   background-attachment: fixed;
